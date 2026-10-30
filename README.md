@@ -1,3 +1,9 @@
+Alunos:
+Lucas Albigo Zilio - RA: 1134707
+Vinícius Galvani - RA: 1137277
+Anderson Tavares - RA: 1134877
+
+
 # Athlex Backend — Microservices Java (Spring Boot 4 / Spring Cloud)
 
 Gateway + Autenticação (JWT) + Autorização + Integração, para o app React Native Athlex.
